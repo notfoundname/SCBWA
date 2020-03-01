@@ -1,2 +1,2 @@
-# ScreamingBedwarsXP
-addon for ScreamingBedwars to use XP as a resource
+# ScreamingBedwarsAddon
+addon for ScreamingBedwars that does some stuff
