@@ -1,0 +1,13 @@
+name: SCBWAddon
+version: 0.1
+main: org.nfn11.main.Main
+api-version: 1.13
+depend: [BedWars]
+softdepend: [PlaceholderAPI]
+commands:
+  scbwa-reload:
+    description: Reload plugin
+    usage: /scbwa-reload
+  scbwa-debug:
+    description: Debug (show config's values)
+    usage: /scbwa-debug
